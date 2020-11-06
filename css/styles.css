@@ -1,0 +1,161 @@
+
+body{
+  text-align: center;
+  margin: 0;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  padding-top:170px ;
+  margin-top: 0;
+}
+h2{
+  font-size: 2.5rem;
+  color:#009999;
+}
+h3{
+  font-size: 1.5rem;
+  color: #339966;
+}
+p{
+font-size: 1.25rem;
+margin: 0;
+}
+a{
+  padding-top:  20px ;
+  font-size: 1.7rem;
+  text-decoration: none;
+}
+a:hover{
+color: gray;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  margin: 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.button{
+  padding-bottom: 60px;
+}
+.link{
+  color: #11999E;
+  padding: 40px;
+  padding-right:40px;
+}
+.copyright{
+  padding: 20px;
+}
+hr{
+  margin: 50px auto;
+  border-bottom: none;
+  border-top: 10px dotted gray;
+  width:5%;
+}
+.topline{
+  padding-bottom: 20px;
+  color: black;
+}
+.top{
+
+  background: linear-gradient(#ffdd99,#b3ecff, #79d279);
+  position: relative;
+  padding-top: 100px;
+    margin: 0;
+}
+.mainimages{
+  position: relative;
+}
+.middle{
+  position: relative;
+  margin: 0;
+}
+.bottom{
+padding: 30px 0 20px 0;
+background-color: #e0e6ff;
+}
+.intro{
+width:30%;
+margin: auto;
+line-height: 1.5;
+
+}
+.contactpara{
+  width:40%;
+  padding-bottom: 50px;
+  margin: auto;
+  line-height: 1.5;
+
+}
+.skills{
+  width: 50%;
+  margin: 100px auto 0 auto;
+  text-align:left;
+  line-height: 2;
+
+}
+.Interests{
+  margin: auto;
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align:left;
+  line-height: 2;
+padding: 10px
+}
+.sun{
+  width: 170px;
+  position: absolute;
+  right:30%;
+  top: 50px;
+}
+.tree{
+  width: 480px;
+  padding-bottom: 50px;
+}
+.cloud{
+  width: 160px;
+  position: absolute;
+  left: 15%;
+  top: 0;
+}
+
+.myimg{
+  padding-top: 50px;
+  width: 9%;
+}
+.programmer{
+  margin-right: 30px;
+  float: left;
+  width: 22%;
+}
+.blackhole{
+  margin-left: 30px;
+  float: right;
+  width: 19%;
+}
+.drawing{
+  margin-left: 30px;
+  float: right;
+  width: 19%;
+}
