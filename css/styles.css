@@ -63,19 +63,26 @@ color: gray;
   text-decoration: none;
 }
 .button{
+  width: 50%;
+  margin: auto;
   padding-bottom: 60px;
 }
 .link{
   font-size:1.5rem;
+  width: 50%;
+  margin: auto;
   color: #11999E;
   padding: 25px;
   padding-right:40px;
 }
+.linkedin{
+  padding-left: 20px;
+}
 .copyright{
   width:50%;
   margin: auto;
-  padding: 20px;
-font-size: 1.1rem;
+  padding: 30px;
+font-size: 1.5rem;
 }
 hr{
   margin: 50px auto;
