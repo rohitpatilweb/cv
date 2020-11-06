@@ -73,6 +73,7 @@ color: gray;
 }
 .copyright{
   width:50%;
+  margin: auto;
   padding: 20px;
 font-size: 1.1rem;
 }
