@@ -17,6 +17,9 @@ h3{
   font-size: 1.5rem;
   color: #339966;
 }
+.h3middle{
+font-size: 1.5rem;
+}
 p{
 font-size: 1.25rem;
 margin: 0;
@@ -66,6 +69,7 @@ color: gray;
 }
 .copyright{
   padding: 20px;
+font-size: 1.1rem;
 }
 hr{
   margin: 50px auto;
@@ -79,7 +83,7 @@ hr{
 }
 .top{
 
-  background: linear-gradient(#ffdd99,#b3ecff, #79d279);
+  background: linear-gradient(#ffdd99,#b3ecff);
   position: relative;
   padding-top: 100px;
     margin: 0;
@@ -105,7 +109,7 @@ line-height: 1.5;
   width:40%;
   padding-bottom: 50px;
   margin: auto;
-  line-height: 1.5;
+  line-height: 2;
 
 }
 .skills{
@@ -142,7 +146,7 @@ padding: 10px
 
 .myimg{
   padding-top: 50px;
-  width: 9%;
+  width: 11%;
 }
 .programmer{
   margin-right: 30px;
