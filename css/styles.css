@@ -15,7 +15,7 @@ h2{
 }
 h3{
   font-size: 1.5rem;
-  color: #339966;
+  color: #005580;
 }
 .h3middle{
   margin:auto;
@@ -28,6 +28,7 @@ font-size: 1.25rem;
 margin: 0;
 }
 a{
+  color: #009999;
   padding-top:  20px ;
   font-size: 1.7rem;
   text-decoration: none;
@@ -71,7 +72,7 @@ color: gray;
   font-size:1.5rem;
   width: 50%;
   margin: auto;
-  color: #11999E;
+  color: #009999;
   padding: 25px;
   padding-right:40px;
 }
@@ -91,8 +92,11 @@ hr{
   width:5%;
 }
 .topline{
+  color: #005580;
+  width:50%;
+  margin:auto;
+  font-size:2rem;
   padding-bottom: 20px;
-  color: black;
 }
 .top{
 
