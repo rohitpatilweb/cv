@@ -20,7 +20,8 @@ h3{
 .h3middle{
   margin:auto;
   width:60%;
-font-size: 1.5rem;
+  padding:20px;
+font-size: 1.8rem;
 }
 p{
 font-size: 1.25rem;
@@ -65,11 +66,13 @@ color: gray;
   padding-bottom: 60px;
 }
 .link{
+  font-size:1.5rem;
   color: #11999E;
   padding: 25px;
   padding-right:40px;
 }
 .copyright{
+  width:50%;
   padding: 20px;
 font-size: 1.1rem;
 }
